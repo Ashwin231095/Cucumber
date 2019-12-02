@@ -1,0 +1,22 @@
+{
+  "name": "Cucumber-POC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "6.0.5"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "chai": "^4.2.0",
+    "chromedriver": "^78.0.1",
+    "fs": "0.0.1-security",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
